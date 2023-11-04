@@ -1,11 +1,12 @@
 # Department-Mangement
-In Engineering college there are various department.Here I have taken few departments and how many students and teachers are there in a departments and their details.
+In Engineering college there are various department.Here I have taken few departments and how many students and teachers are there in a departments and their details are stored.
 
 ORM - Object Relational Mapping.
 Hibernate is ORM framework used here.It maps an object-oriented domain model to a traditional relational database.
 So to map them I used to ManytoOne Mapping.
 **@ManyToOne** - mapping  many instances of the entity are mapped to one instance of another entity (eg many items in one cart)
 
+Database - MySql
 
 
 The application is build using **MVC Architecture**
